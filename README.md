@@ -59,30 +59,29 @@ This application should be used along with the backend repo which can be found h
 ## Demo Preview 
 
 
-<div align="center">
+* Home Page
 <p align="center">
-    Home Page<br />
   <img src="/src/assets/demo/demo-home.png" width="650" title="home page">
 </p>
- 
+
+* Bike Route/Trail Page 
  <p align="center">
-    Bike Route/Trail Page<br />
   <img src="/src/assets/demo/demo-trail.png" width="650" title="home page">
 </p>
 
+* Explore Page
  <p align="center">
-    Explore Page<br />
   <img src="/src/assets/demo/demo-explore.png" width="650" title="home page">
 </p>
 
+* Dashboard
  <p align="center">
-    Dashboard<br />
   <img src="/src/assets/demo/demo-dashboard.png" width="650" title="home page">
 </p>
+
+* Bike Map
  <p align="center">
-    Bike Map<br />
   <img src="/src/assets/demo/demo-bikemap.png" width="650" title="home page">
 </p>
 
 
-</div>
