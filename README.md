@@ -4,6 +4,10 @@
 ![DC Ridr](/src/assets/demo/demo-home.png)
 ![DC Ridr](/src/assets/demo/demo-trail.png)
 
+<p align="center">
+  <img src="/src/assets/demo/demo-trail.png" width="350" title="home page">
+</p>
+
 *DC Ridr is an application built using Ruby on Rails for the backend and JavaScript for the frontend.*
 
 DC Ridr is an app built for locating bike trail routes and resources in the greater DC area.
