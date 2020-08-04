@@ -2,12 +2,7 @@
 # DC Ridr
 
 ![DC Ridr](/src/assets/demo/demo-home.png)
-![DC Ridr](/src/assets/demo/demo-trail.png)
 
-<p align="center">
-<img src="/src/assets/demo/demo-home.png" width="650" title="home page">
-  <img src="/src/assets/demo/demo-trail.png" width="650" title="home page">
-</p>
 
 *DC Ridr is an application built using Ruby on Rails for the backend and JavaScript for the frontend.*
 
@@ -60,3 +55,34 @@ This application should be used along with the backend repo which can be found h
 * Allow React to run on port 3001 (the backend repo should be running on port:3000).
 
 * Open http://localhost:3001
+
+## Demo Preview 
+
+
+<div align="center">
+<p align="center">
+    Home Page<br />
+  <img src="/src/assets/demo/demo-home.png" width="650" title="home page">
+</p>
+ 
+ <p align="center">
+    Bike Route/Trail Page<br />
+  <img src="/src/assets/demo/demo-trail.png" width="650" title="home page">
+</p>
+
+ <p align="center">
+    Explore Page<br />
+  <img src="/src/assets/demo/demo-explore.png" width="650" title="home page">
+</p>
+
+ <p align="center">
+    Dashboard<br />
+  <img src="/src/assets/demo/demo-dashboard.png" width="650" title="home page">
+</p>
+ <p align="center">
+    Bike Map<br />
+  <img src="/src/assets/demo/demo-bikemap.png" width="650" title="home page">
+</p>
+
+
+</div>
